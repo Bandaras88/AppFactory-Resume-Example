@@ -1,0 +1,30 @@
+{
+    "name": "AppFactory.Resume.Example",
+    "preferGlobal": true,
+    "version": "0.3.0",
+    "author": "The AppFactory <appfactoryza@microsoft.com>",
+    "description": "An example SPA resume",
+    "contributors": [
+        {
+            "name": "Robert MacLean",
+            "email": "v-robmc@microsoft.com"
+        },
+        {
+            "name": "Kevesha Pillay",
+            "email": "v-kepi@microsoft.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rmaclean/AppFactory-Resume-Example"
+    },
+    "dependencies": {
+        "bootstrap": "^3.3.5",
+        "angular": "^1.4.7"
+    },
+    "analyze": false,
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.6"
+    }
+}

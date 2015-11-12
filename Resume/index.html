@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="styles/site.css" rel="stylesheet" />
+</head>
+<body class="container-fluid" ng-controller="indexController">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col-sm-1">
+                <img src="images/me.jpg" width="150" height="150" />
+            </div>
+            <div class="col-sm-10 col-sm-offset-1"><h1>{{resume.name}}</h1></div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12"><h2>Contact</h2></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12"><h2>Studies</h2></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12"><h2>Work History</h2></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12"><h2>Skills</h2></div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12"><h2>References</h2></div>
+    </div>
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="scripts/resume.js"></script>
+    <script src="scripts/app/app.js"></script>
+</body>
+</html>
