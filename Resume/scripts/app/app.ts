@@ -3,11 +3,11 @@ interface indexScope extends angular.IScope {
     resume: resume;
 }
 
-module resumeApp {
-    var app = angular.module("app");
+(function () {
+    "use strict";
+    var app = angular.module("app", []);
 
-    app.controller("indexController", function () {
-        var $scope: indexScope;
+    app.controller("indexController", ["$scope", function ($scope: indexScope) {
         $scope.resume = new resume();
-    });
-}
+    }]);
+})();

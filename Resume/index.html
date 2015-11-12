@@ -19,6 +19,10 @@
     <div class="row">
         <div class="col-sm-12"><h2>Contact</h2></div>
     </div>
+    <div class="row" ng-repeat="contact in resume.contacts">
+        <div class="col-sm-3 col-md-1">{{contact.label}}</div>
+        <div class="col-sm-9 col-md-11">{{contact.value}}</div>
+    </div>
     <div class="row">
         <div class="col-sm-12"><h2>Studies</h2></div>
     </div>
