@@ -1,2 +1,115 @@
-﻿body {
+﻿@colorDarkGrey: #343844;
+@colorTeal: #2AB69D;
+@colorPeach: #E65848;
+@colorMustard: #FDC536;
+@colorcreme: #FCF2d7;
+@textWhileColor: #FFFFFF;
+@fontFamily: Segoe UI, Helvetica, Calibri;
+@mainHeadingFontSize: 24pt;
+@mainSubHeadingFontSize: 20pt;
+@normalHeadingFontSize: 18pt;
+@normalSubHeadingFontSize: 16pt;
+@normalFontSize: 10pt;
+@smallFontSize: 10pt;
+@labelFontSize: 12pt;
+@inputFontSize: 12pt;
+@normalFontWeight: 200;
+
+body {
+    background-color: @colorcreme;
+    font-family: @fontFamily;
+}
+
+.btn {
+    text-align: center;
+    margin: 10px;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    user-select: none;
+    border: 1em solid transparent;
+    border-radius: .25rem;
+
+    &-teal {
+        background-color: @colorTeal;
+        color: @textWhileColor;
+    }
+
+    &-peach {
+        background-color: @colorPeach;
+        color: @textWhileColor;
+    }
+
+    &-creame {
+        background-color: @colorcreme;
+        color: @textWhileColor;
+    }
+
+    &-mustard {
+        background-color: @colorMustard;
+        color: @textWhileColor;
+    }
+
+    &-dark {
+        background-color: @colorDarkGrey;
+        color: @textWhileColor;
+    }
+}
+
+.jumbotron {
+    background-color: @colorDarkGrey;
+    color: @textWhileColor;
+}
+
+.space-15 {
+    height: 15px;
+}
+
+.margin-10 {
+    margin: 10px;
+}
+
+.margin-bottom {
+    margin-bottom: 10px;
+}
+
+.padding-20 {
+    padding: 20px;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.div-positioning-center {
+    align: center;
+}
+
+.div-background {
+    text-align: left;
+
+    &-teal {
+        background-color: @colorTeal;
+        color: @textWhileColor;
+    }
+
+    &-peach {
+        background-color: @colorPeach;
+        color: @textWhileColor;
+    }
+
+    &-creame {
+        background-color: @colorcreme;
+        color: @textWhileColor;
+    }
+
+    &-mustard {
+        background-color: @colorMustard;
+        color: @textWhileColor;
+    }
+
+    &-dark {
+        background-color: @colorDarkGrey;
+        color: @textWhileColor;
+    }
 }
