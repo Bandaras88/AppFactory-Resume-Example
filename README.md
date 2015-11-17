@@ -2,7 +2,7 @@
 
 ## Description
 
-TBD
+Resumé is a single page web app that displays a user's curriculum vitae as a website.  
 
 ## Walkthrough
 
