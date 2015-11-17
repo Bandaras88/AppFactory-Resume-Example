@@ -2,9 +2,9 @@
 
 ## Step 1
 
-Open your browser and type in portal.azure.com
+Open your browser and type in http://portal.azure.com
 
-![][images/img1.png?raw=true]
+![][/images/img1.png?raw=true]
 
 ## Step 2
 
