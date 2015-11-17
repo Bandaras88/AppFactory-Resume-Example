@@ -112,6 +112,7 @@
     </Content>
     <Content Include="scripts\resume.js.map" />
     <Content Include="Documentation\Walkthrough.md" />
+    <None Include="Properties\PublishProfiles\resumeExample.pubxml" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="scripts\app\app.ts" />
