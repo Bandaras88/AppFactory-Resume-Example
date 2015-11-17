@@ -70,6 +70,10 @@
   <ItemGroup>
     <Content Include="Documentation\images\img1.png" />
     <Content Include="Documentation\images\img10.png" />
+    <Content Include="Documentation\images\img11.png" />
+    <Content Include="Documentation\images\img12.png" />
+    <Content Include="Documentation\images\img13.png" />
+    <Content Include="Documentation\images\img14.png" />
     <Content Include="Documentation\images\img2.png" />
     <Content Include="Documentation\images\img3.png" />
     <Content Include="Documentation\images\img4.png" />

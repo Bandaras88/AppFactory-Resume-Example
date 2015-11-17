@@ -8,19 +8,19 @@ Open your browser and type in http://portal.azure.com
 
 ## Step 2
 
-On the sign in page you're going to have to enter your live account details
+On the sign in page you're going to have to enter your live account details.
 
 ![](images/img2.png?raw=true)
 
 ## Step 3
 
-When you're signed in, you'll sent to the azure portal dashboard
+When you're signed in, you'll be sent to the azure portal dashboard.
 
 ![](images/img3.png?raw=true)
 
 ## Step 4
 
-To create a new web app click on New, on the New blade click on Web+Mobile and then click on Web App
+To create a new web app click on New -> Web+Mobile -> Web App
 
 ![](images/img4.png?raw=true)
 
@@ -38,13 +38,34 @@ After creating your web app, it should be displayed as a tile on your dashboard,
 
 ## Step 6
 
-Open your project solution in Visual Studio, on the Solution Explorer Tab right-click on 
+Open your project solution in Visual Studio, on the Solution Explorer Tab right-click on the project and click publish.
 
-T
+![](images/img7.png)
 
-![browser][/images/img1.png]
+## Step 7 
 
-* * *
+On the window that pop-ups click on Microsoft Azure Web Apps
+![](images/img8.png)
 
-1.  Number 1
-2.  Number Two
+
+## Step 8
+
+You may have to reenter your credentials to connect Visual Studio to your Azure subscription.
+![](images/img9.png)
+
+## Step 9
+
+After Visual Studio connects to your Azure subscription, you should select the one you want and click ok.
+![](images/img12.png)
+
+## Step 10 
+
+A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click publish to deploy the app. 
+![](images/img13.png)
+
+
+## Step 11
+
+The output window will display a success message when the deploy is done.
+![](images/img14.png)
+
