@@ -88,8 +88,9 @@ After creating your web app, it should be displayed as a tile on your dashboard,
 
 Open your project solution in Visual Studio, on the Solution Explorer tab right-click on the project and click publish.
 
-![](Documentation/images/img7.png)
 ![](Documentation/images/img-w21.png)
+![](Documentation/images/img7.png)
+
 
 #### Step 8 
 
