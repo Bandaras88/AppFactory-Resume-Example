@@ -1,24 +1,24 @@
 ﻿class resume {
-    name: string = "Kevesha Pillay";
-    currentTitle: string = "Window cleaner";
+    name: string = "Enter Your Name Here";
+    currentTitle: string = "Enter Your Current Job Title Here";
     contacts = [
         {
             label: "Email Address",
-            value: "kpillay@awesome.ninja",
+            value: "Enter Your Email Address Here",
         },
         {
             label: "Phone Number",
-            value: "+27 555 0123"
+            value: "Enter Your Phone Number Here"
         },
         {
             label: "Twitter",
-            value: "@awesomeSuperMe"
+            value: "Enter Your Twitter Handler Here"
         }
     ];
     studies = [
         {
-            value: "The University of awesome stars",
-            subjects: "Maths, English, Afrikaans",
+            value: "Enter Institution Name Here",
+            subjects: "Enter Your Subjects Here, Enter Your Subjects Here",
             dates: "21st January 2013 - 23rd December 2015"
         },
         {
@@ -34,8 +34,8 @@
     ];
     workHistory = [
         {
-            companyName: "Clowns dress Up",
-            duties: "Smiling and Having Fun",
+            companyName: "Enter Company Name Here",
+            duties: "Enter Duties Here",
             duration: "17th January 2015 to 30th December 2015"
         },
         {
@@ -44,10 +44,11 @@
             duration: "17th January 2015 to 30th December 2015"
         },
     ];
-    skills = ["Friendly and Kind", "Happy personality", "Problem Solving"];
+    skills = ["Add Your Skills Here", "Add Your Skills Here", "Add Your Skills Here", "Add Your Skills Here"];
+
     references = [
         {
-            Name: "Mrs Pillay",
+            Name: "Enter Reference Name Here",
             phonenumber: "+27 123 1234",
             company: "The wigwam company",
             role: "The Chief of pastry",

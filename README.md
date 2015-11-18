@@ -8,6 +8,23 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 
 ### Deploying Web Site To Azure
 
+#### Tools you will need
+
+##### Download the AppFactory-Resume-Example from the link below 
+![Resume](https://github.com/rmaclean/AppFactory-Resume-Example/archive/master.zip)  
+
+##### Download and install Visual Studio from the link below 
+![Visual Studio](https://www.visualstudio.com)
+
+##### Download and install the Azure SDK from the link below
+![Azure SDK](https://azure.microsoft.com/blog/2015/07/20/announcing-the-azure-sdk-2-7-for-net) 
+
+##### Activate Your Azure DreamSpark Account on the link below
+![DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99) 
+
+##### When you have all the above resources ready, you can proceed to step-by-step guide below
+
+
 #### Step 1
 
 Open your browser and type in http://portal.azure.com
@@ -50,47 +67,88 @@ Open your project solution in Visual Studio, on the Solution Explorer tab right-
 
 ![](Documentation/images/img7.png)
 
-#### Step 7 
+#### Step 8 
 
 On the window that pop-ups click on Microsoft Azure Web Apps
 ![](Documentation/images/img8.png)
 
 
-#### Step 8
+#### Step 9
 
 You may have to reenter your credentials to connect Visual Studio to your Azure subscription.
 ![](Documentation/images/img9.png)
 
-#### Step 9
+#### Step 10
 
 After Visual Studio connects to your Azure subscription, you should select the one you want and click OK.
 ![](Documentation/images/img12.png)
 
-#### Step 10 
+#### Step 11 
 
 A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click Publish to deploy the app. 
 ![](Documentation/images/img13.png)
 
 
-#### Step 11
+#### Step 12
 
 The output window will display a success message when the deploy is done.
 ![](Documentation/images/img14.png)
 
 
+### Changing the information on the resumé
 
-### Advanced
+#### Step 1
 
-TBD
+Open the resume sollution on Visual Studio, on the Solution Explorer tab double-click on the scripts folder and open the resume.ts file.
+![](Documentation/images/img-w1.png)
 
-#### Changing Colours
+#### Step 2
+
+Once you have the file open you can now edit the profile information with your own. To change the name, find the name property in the resume class and set its value to your name. 
+![](Documentation/images/img-w2.png)
+
+
+#### Step 3
+
+To change current title find the currentTitle property in the resume class and change its value to your current job title.
+![](Documentation/images/img-w3.png)
+
+
+#### Step 4
+
+To change contacts find the contacts property in the resume class, you will notice that it contains three instances of a contact which are represented inside two curly-braces change the value of each property to your own.
+![](Documentation/images/img-w4.png)
+
+
+#### Step 5
+
+To change studies find the studies property in the resume class, like the contacts property the studies property is a collection so you can either add more items to it or edit the exisiting items.
+![](Documentation/images/img-w7.png)
+
+
+#### Step 6
+
+To change work history find the work history property in the resume class. Change the values to own information.
+![](Documentation/images/img-w10.png)
+
+#### Step 7
+
+To change skills you have to find the skills property in the resume class. You can either add, remove or replace the information with your own. 
+![](Documentation/images/img-w11.png)
+
+#### Step 8
+
+To change references you have to find the references property in the resume class. You can either add, remove or replace the information with your own.
+![](Documentation/images/img-w13.png)
+
+
+#### Changing the colours
 
 TBD
 
 # Links
 
 ## Components &amp; Tools
-
 - [Angular](https://angularjs.org)
 - [Bootstrap](http://getbootstrap.com)
 - [LESS](http://lesscss.org)
