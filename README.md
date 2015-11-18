@@ -1,81 +1,81 @@
-# Single Page Application (SPA) Resumé
+﻿# Single Page Application (SPA) Resumé
 
 ## Description
 
-Resum� is a single page web app that displays a user's curriculum vitae as a website.  
+Resumé is a single page web app that displays a user's curriculum vitae as a website.  
 
 ## Walkthrough
 
-## Deploying Web Site To Azure
+### Deploying Web Site To Azure
 
-### Step 1
+#### Step 1
 
 Open your browser and type in http://portal.azure.com
 
-![](images/img1.png?raw=true)
+![](Documentation/images/img1.png?raw=true)
 
-### Step 2
+#### Step 2
 
-On the sign in page you're going to have to enter your live account details.
+On the sign in page you're going to have to enter your Microsoft Account details.
 
-![](images/img2.png?raw=true)
+![](Documentation/images/img2.png?raw=true)
 
-### Step 3
+#### Step 3
 
-When you're signed in, you'll be sent to the azure portal dashboard.
+When you're signed in, you'll be sent to the Azure portal dashboard.
 
-![](images/img3.png?raw=true)
+![](Documentation/images/img3.png?raw=true)
 
-### Step 4
+#### Step 4
 
-To create a new web app click on New -> Web+Mobile -> Web App
+To create a new web app click on New → Web+Mobile → Web App
 
-![](images/img4.png?raw=true)
+![](Documentation/images/img4.png?raw=true)
 
-### Step 5
+#### Step 5
 
 On the web app blade there's a field where you have to supply a name for your web app, the name has to be globally unique because it will be used to make up part of your `azurewebsites.net` URL. You also need to choose a subscription, resource group and a location before you can create the web app.
 
-![](images/img5.png?raw=true)
+![](Documentation/images/img5.png?raw=true)
 
-### Step 6
+#### Step 6
 
 After creating your web app, it should be displayed as a tile on your dashboard, if it's not then you can click on Resource Groups to find it.
 
-![](images/img6.png?raw=true)
+![](Documentation/images/img6.png?raw=true)
 
-## Step 7
+#### Step 7
 
-Open your project solution in Visual Studio, on the Solution Explorer Tab right-click on the project and click publish.
+Open your project solution in Visual Studio, on the Solution Explorer tab right-click on the project and click publish.
 
-![](images/img7.png)
+![](Documentation/images/img7.png)
 
-## Step 7 
+#### Step 7 
 
 On the window that pop-ups click on Microsoft Azure Web Apps
-![](images/img8.png)
+![](Documentation/images/img8.png)
 
 
-## Step 8
+#### Step 8
 
 You may have to reenter your credentials to connect Visual Studio to your Azure subscription.
-![](images/img9.png)
+![](Documentation/images/img9.png)
 
-## Step 9
+#### Step 9
 
-After Visual Studio connects to your Azure subscription, you should select the one you want and click ok.
-![](images/img12.png)
+After Visual Studio connects to your Azure subscription, you should select the one you want and click OK.
+![](Documentation/images/img12.png)
 
-## Step 10 
+#### Step 10 
 
-A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click publish to deploy the app. 
-![](images/img13.png)
+A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click Publish to deploy the app. 
+![](Documentation/images/img13.png)
 
 
-## Step 11
+#### Step 11
 
 The output window will display a success message when the deploy is done.
-![](images/img14.png)
+![](Documentation/images/img14.png)
 
 ## Changing the information on the resumé
 
@@ -87,10 +87,12 @@ TBD
 
 # Links
 
-- [Angular]()
-- [Bootstrap]()
-- [LESS]()
-- [TypeScript]()
-- [Visual Studio]()
-- [Azure]()
+
+
+- [Angular](https://angularjs.org)
+- [Bootstrap](http://getbootstrap.com)
+- [LESS](http://lesscss.org)
+- [TypeScript](http://www.typescriptlang.org)
+- [Visual Studio](https://www.visualstudio.com)
+- [Azure](https://azure.microsoft.com)
 - [Web Compiler](https://github.com/madskristensen/WebCompiler)
