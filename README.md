@@ -68,7 +68,7 @@ After Visual Studio connects to your Azure subscription, you should select the o
 
 #### Step 10 
 
-A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click publish to deploy the app. 
+A window containing the details of the Azure Web App will pop-up, confirm if the information displayed there is correct then click Publish to deploy the app. 
 ![](Documentation/images/img13.png)
 
 
