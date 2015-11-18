@@ -22,7 +22,7 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 ##### Activate Your Azure DreamSpark Account on the link below
 [DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99) 
 
-##### When you have all the above resources ready, you can proceed to step-by-step guide below
+##### When you have all the above resources ready, you can proceed to the step-by-step guide below
 
 
 #### Step 1
