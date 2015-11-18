@@ -6,8 +6,6 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 
 ## Walkthrough
 
-### Deploying Web Site To Azure
-
 #### Tools you will need
 
 
@@ -47,8 +45,7 @@ Paste the clone URL you got from github into the textbox and click Clone.
 ![](Documentation/images/img-w19.png?raw=true)
 
 
-
-
+### Deploying Web Site To Azure
 
 
 #### Step 1
