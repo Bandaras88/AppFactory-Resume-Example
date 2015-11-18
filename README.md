@@ -42,7 +42,7 @@ Click on clone.
 #### Step 4 
 
 Paste the clone URL you got from github into the textbox and click Clone.
-![](Documentation/images/img-w19.png?raw=true)
+![](Documentation/images/img-w20.png?raw=true)
 
 
 ### Deploying Web Site To Azure
