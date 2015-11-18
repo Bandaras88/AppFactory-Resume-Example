@@ -10,8 +10,6 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 
 #### Tools you will need
 
-##### Download the AppFactory-Resume-Example from the link below 
-[Resume](https://github.com/rmaclean/AppFactory-Resume-Example/archive/master.zip)  
 
 ##### Download and install Visual Studio from the link below 
 [Visual Studio](https://www.visualstudio.com)
@@ -23,6 +21,34 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 [DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99) 
 
 ##### When you have all the above resources ready, you can proceed to the step-by-step guide below
+
+
+### Cloning Repository Using Visual Studio
+
+#### Step 1
+
+To get the clone URL go to the link below and click on the Copy to clipboard button.
+[Resumé](https://github.com/rmaclean/AppFactory-Resume-Example)
+![](Documentation/images/img-w19.png?raw=true) 
+
+#### Step 2
+
+To clone the repository to your computer you need to open Visual Studio, click on Team Explorer then Manage Connections. 
+![](Documentation/images/img-w17.png?raw=true)
+
+#### Step 3
+
+Click on clone.
+![](Documentation/images/img-w18.png?raw=true)
+
+#### Step 4 
+
+Paste the clone URL you got from github into the textbox and click Clone.
+![](Documentation/images/img-w19.png?raw=true)
+
+
+
+
 
 
 #### Step 1
@@ -66,6 +92,7 @@ After creating your web app, it should be displayed as a tile on your dashboard,
 Open your project solution in Visual Studio, on the Solution Explorer tab right-click on the project and click publish.
 
 ![](Documentation/images/img7.png)
+![](Documentation/images/img-w21.png)
 
 #### Step 8 
 
