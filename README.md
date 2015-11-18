@@ -141,6 +141,20 @@ To change skills you have to find the skills property in the resume class. You c
 To change references you have to find the references property in the resume class. You can either add, remove or replace the information with your own.
 ![](Documentation/images/img-w13.png)
 
+#### Step 9
+
+To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pop-up.  
+![](Documentation/images/img-w14.png)
+
+### Step 10
+
+On the Publish Web window that pop-up, click on the Publish button.
+![](Documentation/images/img-w15.png)
+
+### Step 11
+
+A success message with your website URL will show up on the output window when the publish is done.
+![](Documentation/images/img-w16.png)
 
 #### Changing the colours
 
