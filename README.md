@@ -104,7 +104,7 @@ Open the resume sollution on Visual Studio, on the Solution Explorer tab double-
 
 #### Step 2
 
-Once you have the file open you can now edit the profile information with your own. To change the name, find the name property in the resume class and set its value to your name. 
+Once you have the file open you can now replace the profile information with your own. To change the name, find the name property in the resume class and set its value to your name. 
 ![](Documentation/images/img-w2.png)
 
 
