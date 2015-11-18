@@ -1,4 +1,4 @@
-# Single Page Application (SPA) Resum�
+# Single Page Application (SPA) Resumé
 
 ## Description
 
@@ -77,19 +77,15 @@ A window containing the details of the Azure Web App will pop-up, confirm if the
 The output window will display a success message when the deploy is done.
 ![](images/img14.png)
 
-
-
-### Advanced
+## Changing the information on the resumé
 
 TBD
 
-#### Changing Colours
+## Changing the colours
 
 TBD
 
 # Links
-
-## Components &amp; Tools
 
 - [Angular]()
 - [Bootstrap]()
