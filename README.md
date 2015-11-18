@@ -11,16 +11,16 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 #### Tools you will need
 
 ##### Download the AppFactory-Resume-Example from the link below 
-![Resume](https://github.com/rmaclean/AppFactory-Resume-Example/archive/master.zip)  
+[Resume](https://github.com/rmaclean/AppFactory-Resume-Example/archive/master.zip)  
 
 ##### Download and install Visual Studio from the link below 
-![Visual Studio](https://www.visualstudio.com)
+[Visual Studio](https://www.visualstudio.com)
 
 ##### Download and install the Azure SDK from the link below
-![Azure SDK](https://azure.microsoft.com/blog/2015/07/20/announcing-the-azure-sdk-2-7-for-net) 
+[Azure SDK](https://azure.microsoft.com/blog/2015/07/20/announcing-the-azure-sdk-2-7-for-net) 
 
 ##### Activate Your Azure DreamSpark Account on the link below
-![DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99) 
+[DreamSpark](https://www.dreamspark.com/Product/Product.aspx?productid=99) 
 
 ##### When you have all the above resources ready, you can proceed to step-by-step guide below
 
