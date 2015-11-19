@@ -174,9 +174,6 @@ To publish your changes to the Azure, go the Solution Explorer tab, right-click 
 
 #### Step 10
 
-
-
-
 On the Publish Web window that pops up, click on the Publish button.
 ![](Documentation/images/img-w15.png)
 
@@ -250,6 +247,12 @@ On the Publish Web window that pop-up, click on the Publish button.
 
 A success message with your website URL will show up on the output window when the publish is done.
 ![](Documentation/images/img-w16.png)
+
+### Troubleshooting
+
+After your first publish you notice that angularjs and bootstrap breaks, to fix this problem replace the bootstrap and angularjs reference with their CDN links. 
+![](Documentation/images/img-w35.png)
+![](Documentation/images/img-w36.png)
 
 # Links
 
