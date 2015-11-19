@@ -88,7 +88,7 @@ After creating your web app, it should be displayed as a tile on your dashboard,
 
 Open your project solution in Visual Studio, on the Team Explorer tab double-click on project's local repository, click on the resume.sln file to open it and then open the Solution Explorer tab right-click on the project and click publish.
 
-![](Documentation/images/img34.png)
+![](Documentation/images/img-w34.png)
 ![](Documentation/images/img-w21.png)
 ![](Documentation/images/img7.png)
 
