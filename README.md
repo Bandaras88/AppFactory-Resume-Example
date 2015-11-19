@@ -86,8 +86,9 @@ After creating your web app, it should be displayed as a tile on your dashboard,
 
 #### Step 7
 
-Open your project solution in Visual Studio, on the Solution Explorer tab right-click on the project and click publish.
+Open your project solution in Visual Studio, on the Team Explorer tab double-click on project's local repository, click on the resume.sln file to open it and then open the Solution Explorer tab right-click on the project and click publish.
 
+![](Documentation/images/img34.png)
 ![](Documentation/images/img-w21.png)
 ![](Documentation/images/img7.png)
 
@@ -173,7 +174,10 @@ To publish your changes to the Azure, go the Solution Explorer tab, right-click 
 
 #### Step 10
 
-On the Publish Web window that pop-up, click on the Publish button.
+
+
+
+On the Publish Web window that pops up, click on the Publish button.
 ![](Documentation/images/img-w15.png)
 
 #### Step 11
@@ -186,17 +190,17 @@ A success message with your website URL will show up on the output window when t
 #### Step 1
 
 Open the styles folder and click the site.less file to open it.
-![](Documentation/images/img-w29.png)
+![](Documentation/images/img-w33.png)
 
 #### Step 2
 
-In Less you can save colours as variables by using `@variableName: value;` syntax. So to add you own colors to the project create your own Less veriables with hexadecimal colour values.
-![](Documentation/images/img-w33.png)
+In Less you can save colours as variables by using `@variableName: value;` syntax. So to add you own colours to the project create your own Less veriables with hexadecimal colour values.
+![](Documentation/images/img-w30.png)
 
 #### Step 3
 
 Assign the colour you created above to an element, choose the element you want to assign the colour to e.g background-color of the body. 
-![](Documentation/images/img-w31.png)
+![](Documentation/images/img-w29.png)
 
 #### Installing Web Compiler
 
@@ -229,12 +233,12 @@ Restart Visual Studio by clicking the Restart Now button.
 
 ##### Step 6 
 
-Open the styles folder, right-click on the site.less file hover over Web Compiler and click on Re-compile file.
+Open the styles folder, right-click on the site.less file. Hover over Web Compiler and click on Re-compile file.
 ![](Documentation/images/img-w32.png)
 
 ##### Step 7
 
-To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pop-up.  
+To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pops up.  
 ![](Documentation/images/img-w14.png)
 
 ##### Step 8
