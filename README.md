@@ -184,35 +184,71 @@ On the Publish Web window that pop-up, click on the Publish button.
 A success message with your website URL will show up on the output window when the publish is done.
 ![](Documentation/images/img-w16.png)
 
-#### Changing the colours
+### Changing the colours
 
-### Step 1
+#### Step 1
+
+Open the styles folder and click the site.less file to open it.
+![](Documentation/images/img-w29.png)
+
+#### Step 2
+
+In Less you can save colours as variables by using `@variableName: value;` syntax. So to add you own colors to the project create your own Less veriables with hexadecimal colour values.
+![](Documentation/images/img-w30.png)
+
+#### Step 3
+
+Assign the colour you created above to an element, choose the element you want to assign the colour to e.g background-color of the body. 
+![](Documentation/images/img-w22.png)
+
+#### Installing Web Compiler
+
+##### Step 1
 
 Click on Tools →  Extensions and Updates
 ![](Documentation/images/img-w22.png)
 
 
-### Step 2
+##### Step 2
 
 On the Extensions and Updates window click on Online
 ![](Documentation/images/img-w23.png) 
 
-### Step 3
+##### Step 3
 
 Search for Web Compiler and click on the Download button when it appears
 ![](Documentation/images/img-w24.png)
 
-### Step 4
+##### Step 4
 
 Wait for the download to finish, click the Install button to install.  
 ![](Documentation/images/img-w25.png)
 ![](Documentation/images/img-w26.png)
 
-### Step 5
+##### Step 5
 
 Restart Visual Studio by clicking the Restart Now button.
 ![](Documentation/images/img-w27.png)
 
+##### Step 6 
+
+Open the styles folder, right-click on the site.less file hover over Web Compiler and click on Re-compile file.
+![](Documentation/images/img-w32.png)
+
+#### Step 7
+
+To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pop-up.  
+![](Documentation/images/img-w14.png)
+
+#### Step 8
+
+On the Publish Web window that pop-up, click on the Publish button.
+![](Documentation/images/img-w15.png)
+
+#### Step 9
+
+A success message with your website URL will show up on the output window when the publish is done.
+![](Documentation/images/img-w16.png)
 
 # Links
 
