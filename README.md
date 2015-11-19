@@ -194,12 +194,12 @@ Open the styles folder and click the site.less file to open it.
 #### Step 2
 
 In Less you can save colours as variables by using `@variableName: value;` syntax. So to add you own colors to the project create your own Less veriables with hexadecimal colour values.
-![](Documentation/images/img-w30.png)
+![](Documentation/images/img-w33.png)
 
 #### Step 3
 
 Assign the colour you created above to an element, choose the element you want to assign the colour to e.g background-color of the body. 
-![](Documentation/images/img-w22.png)
+![](Documentation/images/img-w31.png)
 
 #### Installing Web Compiler
 
