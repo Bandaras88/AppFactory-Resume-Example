@@ -235,17 +235,17 @@ Restart Visual Studio by clicking the Restart Now button.
 Open the styles folder, right-click on the site.less file hover over Web Compiler and click on Re-compile file.
 ![](Documentation/images/img-w32.png)
 
-#### Step 7
+##### Step 7
 
 To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pop-up.  
 ![](Documentation/images/img-w14.png)
 
-#### Step 8
+##### Step 8
 
 On the Publish Web window that pop-up, click on the Publish button.
 ![](Documentation/images/img-w15.png)
 
-#### Step 9
+##### Step 9
 
 A success message with your website URL will show up on the output window when the publish is done.
 ![](Documentation/images/img-w16.png)
