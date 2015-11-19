@@ -21,7 +21,7 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 
 #### Step 1
 
-To get the clone URL go to the link below and click on the Copy to clipboard button.
+To get the clone URL click on the Copy to clipboard button.
 ![](Documentation/images/img-w19.png?raw=true) 
 
 #### Step 2
