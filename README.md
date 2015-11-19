@@ -95,7 +95,7 @@ Open your project solution in Visual Studio, on the Team Explorer tab double-cli
 
 #### Step 8 
 
-On the window that pop-ups click on Microsoft Azure Web Apps
+On the window that pops up click on Microsoft Azure Web Apps
 ![](Documentation/images/img8.png)
 
 
