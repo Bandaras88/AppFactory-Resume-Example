@@ -20,26 +20,29 @@ Resumé is a single page web app that displays a user's curriculum vitae as a we
 
 ##### When you have all the above resources ready, you can proceed to the step-by-step guide below
 
-
 ### Cloning Repository Using Visual Studio
 
 #### Step 1
 
 To get the clone URL go to the link below and click on the Copy to clipboard button.
-[Resumé](https://github.com/rmaclean/AppFactory-Resume-Example)
 ![](Documentation/images/img-w19.png?raw=true) 
 
 #### Step 2
 
+On your computer click on start, search for Visual Studio and press enter to open it.
+![](Documentation/images/img-w28.png?raw=true)
+
+#### Step 3
+
 To clone the repository to your computer you need to open Visual Studio, click on Team Explorer then Manage Connections. 
 ![](Documentation/images/img-w17.png?raw=true)
 
-#### Step 3
+#### Step 4
 
 Click on clone.
 ![](Documentation/images/img-w18.png?raw=true)
 
-#### Step 4 
+#### Step 5 
 
 Paste the clone URL you got from github into the textbox and click Clone.
 ![](Documentation/images/img-w20.png?raw=true)
@@ -171,19 +174,45 @@ To change references you have to find the references property in the resume clas
 To publish your changes to the Azure, go the Solution Explorer tab, right-click on the project and click publish on the context menu that pop-up.  
 ![](Documentation/images/img-w14.png)
 
-### Step 10
+#### Step 10
 
 On the Publish Web window that pop-up, click on the Publish button.
 ![](Documentation/images/img-w15.png)
 
-### Step 11
+#### Step 11
 
 A success message with your website URL will show up on the output window when the publish is done.
 ![](Documentation/images/img-w16.png)
 
 #### Changing the colours
 
-TBD
+### Step 1
+
+Click on Tools →  Extensions and Updates
+![](Documentation/images/img-w22.png)
+
+
+### Step 2
+
+On the Extensions and Updates window click on Online
+![](Documentation/images/img-w23.png) 
+
+### Step 3
+
+Search for Web Compiler and click on the Download button when it appears
+![](Documentation/images/img-w24.png)
+
+### Step 4
+
+Wait for the download to finish, click the Install button to install.  
+![](Documentation/images/img-w25.png)
+![](Documentation/images/img-w26.png)
+
+### Step 5
+
+Restart Visual Studio by clicking the Restart Now button.
+![](Documentation/images/img-w27.png)
+
 
 # Links
 
