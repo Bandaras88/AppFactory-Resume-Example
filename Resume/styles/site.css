@@ -1,6 +1,6 @@
 ﻿body {
-  background-color: #FCF2d7;
-  font-family: Segoe UI, Helvetica, Calibri;
+  background-color:  #FDC536;
+  font-family:  Segoe UI, Helvetica, Calibri;
 }
 .btn {
   text-align: center;
@@ -13,28 +13,28 @@
   border-radius: .25rem;
 }
 .btn-teal {
-  background-color: #2AB69D;
-  color: #FFFFFF;
+  background-color:  #2AB69D;
+  color:  #FFFFFF;
 }
 .btn-peach {
-  background-color: #E65848;
-  color: #FFFFFF;
+  background-color:  #E65848;
+  color:  #FFFFFF;
 }
 .btn-creame {
-  background-color: #FCF2d7;
-  color: #FFFFFF;
+  background-color:  #FCF2D7;
+  color:  #FFFFFF;
 }
 .btn-mustard {
-  background-color: #FDC536;
-  color: #FFFFFF;
+  background-color:  #FDC536;
+  color:  #FFFFFF;
 }
 .btn-dark {
-  background-color: #343844;
-  color: #FFFFFF;
+  background-color:  #343844;
+  color:  #FFFFFF;
 }
 .jumbotron {
-  background-color: #343844;
-  color: #FFFFFF;
+  background-color:  #343844;
+  color:  #FFFFFF;
 }
 .space-15 {
   height: 15px;
@@ -58,22 +58,22 @@
   text-align: left;
 }
 .div-background-teal {
-  background-color: #2AB69D;
-  color: #FFFFFF;
+  background-color:  #2AB69D;
+  color:  #FFFFFF;
 }
 .div-background-peach {
-  background-color: #E65848;
-  color: #FFFFFF;
+  background-color:  #E65848;
+  color:  #FFFFFF;
 }
 .div-background-creame {
-  background-color: #FCF2d7;
-  color: #FFFFFF;
+  background-color:  #FCF2D7;
+  color:  #FFFFFF;
 }
 .div-background-mustard {
-  background-color: #FDC536;
-  color: #FFFFFF;
+  background-color:  #FDC536;
+  color:  #FFFFFF;
 }
 .div-background-dark {
-  background-color: #343844;
-  color: #FFFFFF;
+  background-color:  #343844;
+  color:  #FFFFFF;
 }

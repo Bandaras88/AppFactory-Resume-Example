@@ -1,24 +1,24 @@
 ﻿class resume {
-    name: string = "Enter Your Name Here";
-    currentTitle: string = "Enter Your Current Job Title Here";
+    name: string = "Modisana Serero";
+    currentTitle: string = "ANC President";
     contacts = [
         {
             label: "Email Address",
-            value: "Enter Your Email Address Here",
+            value: "djdino1@gmail.com",
         },
         {
             label: "Phone Number",
-            value: "Enter Your Phone Number Here"
+            value: "0743451029"
         },
         {
             label: "Twitter",
-            value: "Enter Your Twitter Handler Here"
+            value: "@DinodaSoul "
         }
     ];
     studies = [
         {
-            value: "Enter Institution Name Here",
-            subjects: "Enter Your Subjects Here, Enter Your Subjects Here",
+            value: "University of Johannesburg",
+            subjects: "Java, SQL, JSON, C#, XAML",
             dates: "21st January 2013 - 23rd December 2015"
         },
         {
@@ -27,38 +27,38 @@
             dates: "21st January 2013 - 23rd December 2015"
         },
         {
-            value: "The University of awesome stars",
+            value: "Wits",
             subjects: "Maths, English, Afrikaans",
             dates: "21st January 2013 - 23rd December 2015"
         }
     ];
     workHistory = [
         {
-            companyName: "Enter Company Name Here",
-            duties: "Enter Duties Here",
+            companyName: "ANC",
+            duties: "Dictator",
             duration: "17th January 2015 to 30th December 2015"
         },
         {
-            companyName: "Lorem Ipsum",
-            duties: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim.Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend.Ut nonummy.",
+            companyName: "DA",
+            duties: "Dictator",
             duration: "17th January 2015 to 30th December 2015"
         },
     ];
-    skills = ["Add Your Skills Here", "Add Your Skills Here", "Add Your Skills Here", "Add Your Skills Here"];
+    skills = ["Eat tax payers money", "Negotiate for tenders", "Steal from the poor", "Stay president forever"];
 
     references = [
         {
-            Name: "Enter Reference Name Here",
+            Name: "Jacob Zouma",
             phonenumber: "+27 123 1234",
-            company: "The wigwam company",
-            role: "The Chief of pastry",
-            email: "this@this.this"
+            company: "ANC",
+            role: "Ex president",
+            email: "president.zouma@anc.com"
         },
         {
-            Name: "Mrs Pillay",
+            Name: "Kivesha Pillay",
             phonenumber: "+27 123 1234",
-            company: "The wigwam company",
-            role: "The Chief of pastry",
-            email: "this@this.this"
+            company: "DA",
+            role: "Deputy President",
+            email: "kev.president@outlook.com"
         }];
 }

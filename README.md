@@ -68,13 +68,14 @@ When you're signed in, you'll be sent to the Azure portal dashboard.
 
 #### Step 4
 
-To create a new web app click on New → Web+Mobile → Web App
+To create a new web app click on New → Web+Mobile → Web App. On the web app blade there's a field where you have to supply a name for your web app, the name has to be globally unique because it will be used to make up part of your `azurewebsites.net` URL. You also need to choose a subscription, resource group and a location before you can create the web app.
+
 
 ![](Documentation/images/img4.png?raw=true)
 
 #### Step 5
 
-On the web app blade there's a field where you have to supply a name for your web app, the name has to be globally unique because it will be used to make up part of your `azurewebsites.net` URL. You also need to choose a subscription, resource group and a location before you can create the web app.
+After creating the web app, you should be able to view your web app on the resource groups tab.
 
 ![](Documentation/images/img5.png?raw=true)
 

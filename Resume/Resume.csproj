@@ -101,6 +101,7 @@
       <DependentUpon>compilerconfig.json</DependentUpon>
     </Content>
     <Content Include="scripts\resume.js.map" />
+    <None Include="Properties\PublishProfiles\modisanaresume.pubxml" />
     <None Include="Properties\PublishProfiles\resumeExample %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\resumeExample.pubxml" />
   </ItemGroup>
