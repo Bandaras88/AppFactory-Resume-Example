@@ -257,7 +257,6 @@ After your first publish you notice that angularjs and bootstrap breaks, to fix 
 
 # Links
 
-## Components &amp; Tools
 - [Angular](https://angularjs.org)
 - [Bootstrap](http://getbootstrap.com)
 - [LESS](http://lesscss.org)
@@ -265,3 +264,12 @@ After your first publish you notice that angularjs and bootstrap breaks, to fix 
 - [Visual Studio](https://www.visualstudio.com)
 - [Azure](https://azure.microsoft.com)
 - [Web Compiler](https://github.com/madskristensen/WebCompiler)
+
+# Licensing
+
+This project is licensed under the [MIT License](LICENSE.md)
+
+# Submissions
+
+We would love to have you submit your code, enhancements or documentation to this project. To do that, please create a pull request.   
+Please note that all submissions are governed by the [Contributor License Agreement](Contributor-License-Agreement.md).
