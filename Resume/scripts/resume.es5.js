@@ -36,7 +36,7 @@ var resume = (function () {
             duties: "IT Technician",
             duration: "1st July 2015 to 14th December 2015"
         }];
-        this.skills = ["operating systems", "networking", "hardware and software", "problem-solving", "work under pressure"];
+        this.skills = ["Operating Systems", "Networking", "Hardware and Software", "Problem-solving", "Work under pressure"];
         this.references = [{
             Name: "Jacob Khoza",
             phonenumber: "+27 123 1234",
