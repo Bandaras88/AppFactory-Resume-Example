@@ -84,6 +84,8 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="LICENSE.md" />
+    <None Include="Contributor-License-Agreement.md" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
