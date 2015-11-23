@@ -74,6 +74,12 @@
     <Content Include="images\me.jpg" />
     <Content Include="index.html" />
     <Content Include="scripts\app\app.js" />
+    <Content Include="scripts\resume.es5.js">
+      <DependentUpon>resume.js</DependentUpon>
+    </Content>
+    <Content Include="scripts\resume.es5.min.js">
+      <DependentUpon>resume.es5.js</DependentUpon>
+    </Content>
     <Content Include="scripts\resume.js" />
     <Content Include="styles\site.css">
       <DependentUpon>site.less</DependentUpon>

@@ -2,5 +2,9 @@
   {
     "outputFile": "styles/site.css",
     "inputFile": "styles/site.less"
+  },
+  {
+    "outputFile": "scripts/resume.es5.js",
+    "inputFile": "scripts/resume.js"
   }
 ]
